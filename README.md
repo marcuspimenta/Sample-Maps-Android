@@ -7,7 +7,6 @@ Implement sample use Google Maps in Android
 
 ##Download
 You can download apk in:  
-
 [last version](https://raw.github.com/marcuspimenta/Sample-Maps-Android/master/Maps/bin/Maps.apk)
 
 ##Author
